@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMVVM", "WPFMVVM\WPFMVVM.csproj", "{9C243C7E-B076-46DB-889C-5AE54193BC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify", "Spotify\Spotify.csproj", "{4EB36CE2-18F7-4F25-9DE6-FE88AD163AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C243C7E-B076-46DB-889C-5AE54193BC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C243C7E-B076-46DB-889C-5AE54193BC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C243C7E-B076-46DB-889C-5AE54193BC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C243C7E-B076-46DB-889C-5AE54193BC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB36CE2-18F7-4F25-9DE6-FE88AD163AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB36CE2-18F7-4F25-9DE6-FE88AD163AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB36CE2-18F7-4F25-9DE6-FE88AD163AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB36CE2-18F7-4F25-9DE6-FE88AD163AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC92C7E-058D-447B-A78B-B39B2806B45A}
+	EndGlobalSection
+EndGlobal
