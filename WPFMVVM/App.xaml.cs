@@ -2,6 +2,7 @@
 using System.Data;
 using System.Windows;
 using System.Runtime.InteropServices;
+using CommunityToolkit.Mvvm.DependencyInjection;
 
 namespace WPFMVVM
 {
@@ -18,15 +19,16 @@ namespace WPFMVVM
             base.OnStartup(e);
             AllocConsole();
 
-            InitialiseServices();
+            ConfigureServices();
 
             MainWindow mainWindow = new MainWindow();
             mainWindow.Show();
 
         }
 
-        private void InitialiseServices()
+        private void ConfigureServices()
         {
+            
             
         }
 
